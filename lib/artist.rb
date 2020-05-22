@@ -4,6 +4,5 @@ class Artist
   
   def initialize 
     @name=name
-    @genre=genre 
   end 
 end 
